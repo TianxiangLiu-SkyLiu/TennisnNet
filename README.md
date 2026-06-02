@@ -116,15 +116,14 @@ Below is an example of the JSON data structure for the labels file of TennisNet:
 }
 ```
 
-说明：
-- `video_id`: 字符串，视频唯一标识。
-- `frame_num`: 总帧数。
-- `frame_rate`: 帧率（fps）。
-- `resolution`: 宽高 `[W, H]`。
-- `frame_range`: 本段视频在原始视频中的起止帧号。
-- `data`: 每帧的标注数组，按帧排序。
-- `players.details`: 每个球员在该帧的位置/可见性/动作信息。
-
+Note:
+- `video_id`: String, unique identifier for the video.
+- `frame_num`: Total number of frames.
+- `frame_rate`: Frame rate (fps).
+- `resolution`: Width and height `[W, H]`.
+- `frame_range`: The start and end frame numbers of this segment of the video in the original video.
+- `data`: Array of annotations for each frame, sorted by frame.
+- `players.details`: Position/visibility/action information of each player in this frame.
 
 
 ## License
