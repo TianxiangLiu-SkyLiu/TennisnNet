@@ -87,10 +87,6 @@ Below is an example of the JSON data structure for the labels file of TennisNet:
 	"frame_num": 12345,
 	"frame_rate": 25,
 	"resolution": [W, H],
-	"players": [
-		{"id": 0, "team": 0, "name": ""},
-		{"id": 1, "team": 1, "name": ""}
-	],
 	"original_video_url": "...",
 	"frame_range": [start_frame, end_frame],
 	"data": [
