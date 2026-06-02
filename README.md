@@ -121,7 +121,6 @@ Below is an example of the JSON data structure for the labels file of TennisNet:
 - `frame_num`: 总帧数。
 - `frame_rate`: 帧率（fps）。
 - `resolution`: 宽高 `[W, H]`。
-- `players`: 球员元信息列表，包含 `id`、`team`、`name` 等。
 - `frame_range`: 本段视频在原始视频中的起止帧号。
 - `data`: 每帧的标注数组，按帧排序。
 - `players.details`: 每个球员在该帧的位置/可见性/动作信息。
