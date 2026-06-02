@@ -79,7 +79,56 @@ The current version of TennisNet contains 1,487 scoring rally segments, with a t
 </table>
 
 ## Json Struction
+Below is an example of the JSON data structure for the labels file of TennisNet:
 
+```json
+{
+	"video_id": "...",
+	"frame_num": 12345,
+	"frame_rate": 25,
+	"resolution": [W, H],
+	"players": [
+		{"id": 0, "team": 0, "name": ""},
+		{"id": 1, "team": 1, "name": ""}
+	],
+	"original_video_url": "...",
+	"frame_range": [start_frame, end_frame],
+	"data": [
+		{
+			"frame": 1,
+			"players": {
+				"details": [
+					{
+						"id": 0,
+						"visible": 1,
+						"bbox": [x, y, w, h],
+						"action": {
+							"action": "prepare",
+							"racket_hand": "both",
+							"Batting_style": "none",
+							"shot_type": "none",
+							"skill": "none"
+						}
+					}
+					/* ... more player data ... */
+				]
+			},
+			"action": ["begin", "hit_top"]
+		}
+		/* ... more frame data ... */
+	]
+}
+```
+
+说明：
+- `video_id`: 字符串，视频唯一标识。
+- `frame_num`: 总帧数。
+- `frame_rate`: 帧率（fps）。
+- `resolution`: 宽高 `[W, H]`。
+- `players`: 球员元信息列表，包含 `id`、`team`、`name` 等。
+- `frame_range`: 本段视频在原始视频中的起止帧号。
+- `data`: 每帧的标注数组，按帧排序。
+- `players.details`: 每个球员在该帧的位置/可见性/动作信息。
 
 
 
