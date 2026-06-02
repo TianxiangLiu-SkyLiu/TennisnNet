@@ -78,6 +78,11 @@ The current version of TennisNet contains 1,487 scoring rally segments, with a t
 	</tbody>
 </table>
 
+## Json Struction
+
+
+
+
 ## License
 
 The annotations, metadata, label definitions, and official train/validation/test splits in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
