@@ -3,16 +3,7 @@
 <img src='pics/TennisNet.png'/>
 
 ## Statistics
-<center>
 
-|         2    | Clay Court   |  2          | Fine-tuned | Mean Class ACC | Top-1 ACC | Train-features            | Val-Features            | Feature-size per inst. |
-|        2     |--------------|-------------|------------|----------------|-----------|---------------------------|-------------------------|------------------------|
-| BN-Inception | BN-Inception | ImageNet    | -          | -              | -         | [Gym99-train-bninception] | [Gym99-val-bninception] | 12 x 1024 x 1 x 1      |
-| ResNet50     | ResNet50     | ImageNet    | -          | -              | -         | [Gym99-train-r50]         | [Gym99-val-r50]         | 12 x 2048 x 1 x 1      |
-| TSN          | BN-Inception | ImageNet    | Gym99      | 61.4           | 74.8      | [Gym99-train-tsn]         | [Gym99-val-tsn]         | 12 x 1024 x 1 x 1      |
-| I3D          | ResNet50     | ImageNet    | Gym99      | 63.2           | 74.8      | [Gym99-train-i3d-imnet]   | [Gym99-val-i3d-imnet]   | 12 x 2048 x 1 x 1 x 1  |
-| I3D          | ResNet50     | Kinetics    | Gym99      | 64.4           | 75.6      | [Gym99-train-i3d-kin]     | [Gym99-val-i3d-kin]     | 12 x 2048 x 1 x 1 x 1  |
-</center>
 
 ## License
 
