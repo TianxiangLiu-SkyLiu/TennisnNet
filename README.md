@@ -5,6 +5,9 @@ TennisNet is a dense-labeled video dataset for fine-grained understanding of pro
 The current version of TennisNet contains 1,487 scoring rally segments, with a total duration of 220.2 minutes, a total of 494,963 frames, and 5,010,298 frame-level timestamp annotations. The videos are from professional tennis event broadcasts, covering three main court types: clay, hard, and grass, and also including men's singles and women's singles matches. Therefore, it can be used to evaluate the model's generalization ability under different courts, genders, and visual conditions.
 
 <img src='pics/TennisNet.png'/>
+<p align="center">
+  <b>Figure 1.</b> Visualization of TennisNet Annotation.
+</p>
 
 ## Statistics
 <table>
@@ -79,8 +82,16 @@ The current version of TennisNet contains 1,487 scoring rally segments, with a t
 </table>
 
 <img src='pics/player_action_table.png'/>
+<p align="center">
+  <b>Figure 2.</b> Statistic Table of Players Action.
+</p>
 
-<img src='pics/match_event_table.png'/>
+<p align="center">
+	<img src='pics/match_event_table.png' width="50%"/>
+</p>
+<p align="center">
+  <b>Figure 3.</b> Statistic Table of Match Event.
+</p>
 
 ## Json Struction
 Below is an example of the JSON data structure for the labels file of TennisNet:
