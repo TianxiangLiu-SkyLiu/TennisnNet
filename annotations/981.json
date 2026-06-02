@@ -1,0 +1,2168 @@
+{
+ "video_name": "981.mp4",
+ "frame_num": 72,
+ "frame_rate": 25.0,
+ "resolution": [1280, 720],
+ "original_video_url": "https://www.youtube.com/watch?v=2Ukykxkgt8M",
+ "frame_range": [61814, 61885],
+ "data": [{
+   "frame": 1,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6264, 0.2915, 0.041, 0.0816],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3875, 0.7592, 0.0558, 0.2136],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 2,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6264, 0.2934, 0.0407, 0.0773],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3876, 0.7589, 0.0571, 0.2144],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 3,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6264, 0.2931, 0.0404, 0.0772],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3878, 0.7587, 0.0574, 0.214],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 4,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6264, 0.2938, 0.0406, 0.0748],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3881, 0.7583, 0.0572, 0.2152],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 5,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2937, 0.0405, 0.0748],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3887, 0.7582, 0.0571, 0.2145],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 6,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2933, 0.0405, 0.0756],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3887, 0.757, 0.0566, 0.2164],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 7,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2932, 0.0405, 0.0764],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3889, 0.7571, 0.0567, 0.216],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 8,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2925, 0.0403, 0.0771],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3883, 0.7572, 0.0562, 0.2166],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 9,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2919, 0.0405, 0.0771],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3886, 0.7543, 0.057, 0.2209],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 10,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2911, 0.0404, 0.0804],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3891, 0.7491, 0.0578, 0.2318],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 11,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2907, 0.0405, 0.0813],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3888, 0.7378, 0.0576, 0.2549],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 12,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6264, 0.2898, 0.0404, 0.0822],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3884, 0.7346, 0.0572, 0.2595],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 13,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6265, 0.2896, 0.0419, 0.0834],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3883, 0.7337, 0.0589, 0.2638],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 14,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6264, 0.2893, 0.0426, 0.0834],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3887, 0.7324, 0.0579, 0.2654],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 15,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6261, 0.2888, 0.043, 0.0852],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3901, 0.7311, 0.0599, 0.2687],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 16,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.626, 0.288, 0.0426, 0.0865],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3906, 0.7319, 0.0619, 0.2654],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 17,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6259, 0.2882, 0.0419, 0.0868],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3912, 0.7324, 0.0629, 0.2685],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 18,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6256, 0.2893, 0.0427, 0.0898],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3914, 0.7332, 0.0642, 0.2679],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 19,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6251, 0.2884, 0.0429, 0.0877],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3922, 0.7342, 0.0655, 0.2657],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 20,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6248, 0.2861, 0.0437, 0.0908],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3928, 0.7339, 0.0666, 0.2637],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 21,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6247, 0.2858, 0.0434, 0.09],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.3956, 0.7338, 0.0648, 0.2652],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 22,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6252, 0.2857, 0.0414, 0.0896],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4001, 0.7315, 0.0587, 0.2613],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 23,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6248, 0.2851, 0.0417, 0.0929],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4049, 0.7311, 0.053, 0.252],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 24,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.625, 0.2841, 0.0407, 0.0933],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4083, 0.7294, 0.0502, 0.2504],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 25,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6246, 0.2832, 0.0401, 0.096],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4095, 0.7265, 0.0499, 0.2529],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 26,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6235, 0.2818, 0.038, 0.0982],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.411, 0.7294, 0.0504, 0.2468],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 27,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6226, 0.2818, 0.0362, 0.0983],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4123, 0.7279, 0.0501, 0.2454],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 28,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6213, 0.2814, 0.0338, 0.0989],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4137, 0.7279, 0.0512, 0.2485],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 29,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6205, 0.2818, 0.032, 0.0985],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.415, 0.7303, 0.0534, 0.2498],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 30,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6199, 0.2822, 0.0305, 0.0987],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4156, 0.7335, 0.0539, 0.2439],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 31,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6203, 0.2824, 0.0293, 0.0977],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4158, 0.7391, 0.052, 0.2328],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 32,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6203, 0.2821, 0.0293, 0.0986],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4152, 0.749, 0.0527, 0.212],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 33,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6196, 0.2805, 0.0312, 0.1045],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4134, 0.751, 0.0542, 0.2082],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 34,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6196, 0.2794, 0.0312, 0.1074],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4129, 0.7468, 0.05, 0.2126],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 35,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6204, 0.2774, 0.031, 0.1113],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4134, 0.741, 0.049, 0.2148],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 36,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6212, 0.2767, 0.0317, 0.1122],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4142, 0.7291, 0.0507, 0.2267],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 37,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6214, 0.2761, 0.0327, 0.1142],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.415, 0.703, 0.0488, 0.2468],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["begin", "hit_bottom", "net_in"]
+  },
+  {
+   "frame": 38,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6217, 0.2766, 0.0337, 0.1145],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4158, 0.7112, 0.0532, 0.223],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 39,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6225, 0.2779, 0.0359, 0.1132],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4162, 0.7106, 0.0555, 0.216],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 40,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6232, 0.2794, 0.0386, 0.1112],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4181, 0.7167, 0.0523, 0.202],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 41,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6245, 0.2807, 0.0408, 0.108],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.42, 0.7133, 0.0498, 0.2111],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 42,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6247, 0.282, 0.0409, 0.1036],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4219, 0.7159, 0.0546, 0.2228],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 43,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6246, 0.2855, 0.042, 0.0983],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4232, 0.722, 0.0562, 0.2249],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 44,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.625, 0.2873, 0.0417, 0.0964],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4249, 0.7224, 0.055, 0.225],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 45,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6253, 0.2884, 0.0416, 0.0946],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4239, 0.7262, 0.0585, 0.2146],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 46,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6256, 0.2889, 0.0414, 0.0934],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4234, 0.7326, 0.0558, 0.2026],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 47,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6261, 0.2893, 0.0422, 0.092],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4234, 0.7366, 0.0523, 0.1932],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 48,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.627, 0.2898, 0.042, 0.0927],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4243, 0.7343, 0.0497, 0.198],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 49,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6288, 0.2889, 0.0403, 0.0941],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4236, 0.732, 0.0473, 0.2059],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 50,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.631, 0.2887, 0.0379, 0.0948],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4215, 0.7295, 0.0439, 0.2091],
+      "action": {
+       "action": "serve",
+       "racket_hand": "right",
+       "Batting_style": "forehand",
+       "shot_type": "sidespin",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in"]
+  },
+  {
+   "frame": 51,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6335, 0.2887, 0.0346, 0.0951],
+      "action": {
+       "action": "prepare",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4218, 0.726, 0.043, 0.2103],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": ["net_in", "ball_bounce", "end"]
+  },
+  {
+   "frame": 52,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6358, 0.2885, 0.0314, 0.0973],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4208, 0.7244, 0.0396, 0.215],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 53,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6391, 0.2866, 0.0311, 0.1001],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4202, 0.723, 0.0382, 0.2161],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 54,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.644, 0.2858, 0.0214, 0.0996],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.421, 0.7226, 0.039, 0.2171],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 55,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6457, 0.2866, 0.0188, 0.0994],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4219, 0.7222, 0.0404, 0.2166],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 56,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6468, 0.2867, 0.0199, 0.1005],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4225, 0.7229, 0.0407, 0.2162],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 57,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6485, 0.2851, 0.023, 0.1048],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4233, 0.7224, 0.0409, 0.2155],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 58,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6504, 0.2855, 0.0265, 0.1036],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4234, 0.7211, 0.0415, 0.214],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 59,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.652, 0.2855, 0.0282, 0.105],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4235, 0.7177, 0.0414, 0.2106],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 60,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6526, 0.2852, 0.0282, 0.1075],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4234, 0.7151, 0.0413, 0.2074],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 61,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6544, 0.2839, 0.0283, 0.1095],
+      "action": {
+       "action": "relax",
+       "racket_hand": "both",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4231, 0.714, 0.0414, 0.2084],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 62,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.655, 0.2854, 0.0243, 0.1056],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4228, 0.7131, 0.0416, 0.209],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 63,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6558, 0.2859, 0.0304, 0.1054],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4223, 0.7127, 0.0418, 0.2094],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 64,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6587, 0.2856, 0.0239, 0.1056],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4214, 0.7125, 0.042, 0.2088],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 65,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6605, 0.2858, 0.0234, 0.106],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4205, 0.7126, 0.0423, 0.2094],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 66,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6595, 0.2835, 0.0265, 0.1097],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4196, 0.7123, 0.0436, 0.2092],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 67,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6593, 0.283, 0.0267, 0.1111],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4188, 0.7123, 0.0446, 0.2091],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 68,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6605, 0.2832, 0.0251, 0.1104],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4185, 0.7125, 0.0448, 0.2087],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 69,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6607, 0.283, 0.0245, 0.1105],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4178, 0.7124, 0.0454, 0.2082],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 70,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6596, 0.2823, 0.0271, 0.111],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4167, 0.7125, 0.045, 0.2075],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 71,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6599, 0.2823, 0.0268, 0.1113],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4156, 0.7127, 0.0438, 0.2063],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  },
+  {
+   "frame": 72,
+   "players": {
+    "details": [{
+      "id": 0,
+      "visible": 1,
+      "bbox": [0.6592, 0.2819, 0.0282, 0.1115],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     },
+     {
+      "id": 1,
+      "visible": 1,
+      "bbox": [0.4151, 0.7133, 0.0429, 0.2065],
+      "action": {
+       "action": "relax",
+       "racket_hand": "right",
+       "Batting_style": "none",
+       "shot_type": "none",
+       "skill": "none"
+      }
+     }]
+   },
+   "action": []
+  }]
+}
