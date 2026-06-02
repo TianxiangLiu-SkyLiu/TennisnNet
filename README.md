@@ -80,6 +80,8 @@ The current version of TennisNet contains 1,487 scoring rally segments, with a t
 
 <img src='pics/player_action_table.png'/>
 
+<img src='pics/match_event_table.png'/>
+
 ## Json Struction
 Below is an example of the JSON data structure for the labels file of TennisNet:
 
